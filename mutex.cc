@@ -47,7 +47,7 @@ int parallel_sum(RandomIt beg, RandomIt end)
 int main (int argc, char *argv[])
 {
 	std::vector<int> v(10000, 1);
-	std::cout << "YEEHAW";
+	//std::cout << "YEEHAW";
 	//std::cout << " The sum is " << parallel_sum(v.begin(), v.end()) << '\n';
 	
 	X x;
